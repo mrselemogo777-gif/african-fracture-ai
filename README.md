@@ -7,9 +7,9 @@
 
 | Metric | Value |
 |--------|-------|
-| Accuracy | 84.1% |
+| Accuracy | 81.4% |
 | Cross-validation (5-fold) | 82.4% (±1.7%) |
-| Precision (Simple) | 85% |
+| Precision (Simple) | 81.4% |
 | Recall (Simple) | 79% |
 | Precision (Complex) | 83% |
 | Recall (Complex) | 89% |
@@ -18,7 +18,7 @@
 
 | Metric | Value |
 |--------|-------|
-| Accuracy | 68.6% |
+| Accuracy | 67.7% |
 | Precision | 71.3% |
 | Recall | 54.3% |
 | Confusion Matrix | Simple: 98 correct, 23 false alarm; Complex: 57 correct, 48 missed |
@@ -27,7 +27,7 @@
 
 | Metric | Value |
 |--------|-------|
-| Accuracy | 84.8% |
+| Accuracy | 82.4% |
 | Clinical Weight | 91% |
 | X-ray Weight | 9% |
 | Test Set Size | 46 aligned patients |
